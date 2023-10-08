@@ -1,2 +1,4 @@
 x = input("Enter your name")
 y = input("Enter a Hobby") 
+
+print("Hi " + x + ". I like " + y + " too!")
