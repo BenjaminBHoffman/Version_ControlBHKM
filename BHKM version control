@@ -5,7 +5,7 @@ try:
     if userInputAge >= 21:
         print('Hello ' + userInputName + '! Since your age of ' + str(userInputAge) + ' is greater than 21, you are allowed to drink and vote.')
     elif userInputAge >= 18 && userInputAge < 21:
-        print('Hello ' + userInputName + '! Since your age of ' + srt(userInputAge) + ' is greater than 18 and less than 21, you are allowed to vote but not allowed to drink.')
+        print('Hello ' + userInputName + '! Since your age of ' + str(userInputAge) + ' is greater than 18 and less than 21, you are allowed to vote but not allowed to drink.')
     elif userInputAge < 18;
-        print('Hello ' + userInputName + '! Since your age of ' + srt(userInputAge) + ' is less than 18 and 21, you are not allowed to vote or drink.')
+        print('Hello ' + userInputName + '! Since your age of ' + str(userInputAge) + ' is less than 18 and 21, you are not allowed to vote or drink.')
 
