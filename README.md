@@ -1,9 +1,10 @@
 # Version_ControlBHKM
+
 ## Rights Identifier
 Our code takes input from the user which asks for their name and age. Based on that information, it then outputs if the user is old enough to drink and/or vote in America.
 
 ##Installation
-Only the base code is used for the program, so there is no need to import outside code. To install our program, 
+Only the base code is used for the program, so there is no need to import outside code. To install our program, go to Jupyterlabs and enter "gh repo clone BenjaminBHoffman/Version_ControlBHKM" in the terminal. 
 
 ##Contributors 
 Group Members: Ben Hoffman and Kyle Molz
